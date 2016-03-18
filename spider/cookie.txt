@@ -1,0 +1,7 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.zhixing.bjtu.edu.cn	TRUE	/	FALSE	1460867903	cgbt_password	9fb58e6010d6e356ebdde598426ecf007e3a5d80IPqu6NIIvJnEa4LqGmi3QUB81xVycWE457rWqM5UgLZgz1U1wKduHvok8JlZyr47ssqetKRF%2BKOhRgqm
+.zhixing.bjtu.edu.cn	TRUE	/	FALSE	1460867903	cgbt_uid	a639054cacad7188eabd436318f6367294b6c0c3vPApLeOpp0nJfGfAQHDae0AvX8bkrcwd
+pt.zhixing.bjtu.edu.cn	FALSE	/	FALSE		PHPSESSID	forr0ctekemvkjk3c87trvcrc7
