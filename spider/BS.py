@@ -34,8 +34,8 @@ def login():
                 'User-Agent': 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'}
     postdata = urllib.urlencode({
                 'formhash':'fab5aaa7',
-    			'username':'jyb_haha',
-    			'password':'!85789821j',
+    			'username':'*****',
+    			'password':'passwd',
                 'invitecode':'',
                 'submit':'submit'
     		})
@@ -96,4 +96,3 @@ if __name__ == '__main__':
     findpages();
     savecsv()
     #frame=pd.read_csv('data//data.csv')
-
